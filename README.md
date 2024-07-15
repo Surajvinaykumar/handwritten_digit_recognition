@@ -15,7 +15,7 @@ The mnist_train.ipynb notebook contains the code for training a neural network o
 MNIST dataset.
 
 # Application Notebook
-The APP.ipynb notebook contains additional examples and applications of the trained model.
+The APP.ipynb notebook contains  applications of the trained model.
 
 # Model Architecture
 The model used in this project is a Convolutional Neural Network (CNN) with the following layers:
@@ -27,9 +27,8 @@ Fully connected (Dense) layers with ReLU activation
 Output layer with softmax activation for multi-class classification
 
 # Result
-The model achieves high accuracy on the MNIST test set, demonstrating its effectiveness 
-in recognizing handwritten digits. Detailed training and evaluation results are provided 
-in the mnist_train.ipynb notebook.
+The model achieves good accuracy on the MNIST test set, but sometimes it fails to recognizing hand written digits. 
+Detailed training and evaluation results are provided in the mnist_train.ipynb notebook.
 
 
 
